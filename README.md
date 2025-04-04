@@ -1,13 +1,10 @@
 # Dashboard de Análise de Rejeição - Portfólio Power BI
 
-Olá! Este repositório contém o arquivo .pbix de um dashboard interativo desenvolvido no Microsoft Power BI como parte do meu portfólio pessoal.
+ Gostaria de agradecer pela oportunidade de seguir para a próxima etapa do processo seletivo para a vaga de Analista de Processos e Indicadores.
 
-O objetivo deste projeto é demonstrar minhas habilidades em:
-* Conexão e tratamento de dados (ETL) utilizando o Power Query.
-* Modelagem de dados (criação de relacionamentos, modelo estrela/floco de neve, se aplicável).
-* Criação de medidas e colunas calculadas utilizando DAX (Data Analysis Expressions).
-* Desenvolvimento de visualizações de dados claras e eficazes.
-* Criação de relatórios interativos e intuitivos para análise.
+Conforme solicitado, segue em anexo minha análise referente ao estudo de caso proposto sobre rejeições de corridas por motoristas. Elaborei as respostas com base em uma análise lógica dos impactos para os clientes e motoristas, incluindo sugestões de dados adicionais que podem aumentar a assertividade das ações.
+
+Fico à disposição para quaisquer esclarecimentos adicionais e estou à disposição para as próximas etapas do processo.
   
   ## ⚠️ Como Visualizar o Relatório Interativo
 
@@ -31,7 +28,7 @@ Este relatório foi criado com o *Microsoft Power BI Desktop*. Para abri-lo e ex
 
 ---
 
- ## ✉️ Contato
+## ✉️ Contato
 
 Ficarei feliz em discutir este projeto, minhas habilidades ou a oportunidade em aberto.
 
