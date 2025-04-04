@@ -31,7 +31,7 @@ Este relatório foi criado com o *Microsoft Power BI Desktop*. Para abri-lo e ex
 
 ---
 
-## ✉️ Contato
+ ## ✉️ Contato
 
 Ficarei feliz em discutir este projeto, minhas habilidades ou a oportunidade em aberto.
 
